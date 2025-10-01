@@ -1,0 +1,15 @@
+,ID,Name,Age,Department,Salary,City
+0,1,Helen,47.0,Marketing,71631,Kampala
+1,2,Charlie,51.0,IT,86050,Kampala
+2,3,Fatima,47.0,Operations,89827,Kampala
+4,5,Ian,52.0,Finance,83569,Kampala
+19,20,Diana,50.0,Operations,49651,Kampala
+45,46,Charlie,48.0,IT,73500,Kampala
+53,54,Fatima,52.0,Marketing,42251,Kampala
+57,58,Eric,51.0,HR,79491,Kampala
+66,67,Alice,46.0,Marketing,76852,Kampala
+83,84,Diana,49.0,,85582,Kampala
+85,86,Bob,48.0,HR,69744,Kampala
+102,103,George,48.0,Operations,57497,Kampala
+103,104,Ian,48.0,HR,68192,Kampala
+113,114,,55.0,HR,56460,Kampala
