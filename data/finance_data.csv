@@ -1,0 +1,51 @@
+Date,Name,Salary,Bonus,Department,Age
+01/29/2023,Diana, ,,Finance,63
+06/16/2023, ,N/A,"$4,971 ", ,35
+12/31/2023,Hank, ,,Sales,37
+06/22/2023,Jack,"$85,353 ",9554 USD,Finance,55
+08/30/2023,Frank,N/A,none,HR,71
+09/29/2023,Diana,"$80,435 ",9110 USD,IT,23
+01/31/2023,Diana,N/A,none,none,150
+01/25/2023,Charlie,"$78,627 ",4587 USD,HR,25
+11/19/2023,Grace,,7279 USD,IT,42
+10/31/2023,Charlie, ,4168 USD,HR,36
+05/10/2023,Ivy,N/A,5518 USD,,20
+04/17/2023,Frank,"$59,536 ",none,Sales,27
+10/08/2023,Diana,,none,Marketing,37
+02/27/2023,Bob,,8947 USD,Marketing,43
+04/20/2023,Ivy,"$76,800 ",5763 USD,IT,69
+09/22/2023,Frank,"$89,004 ",,IT,36
+05/27/2023,Jack,64228 USD,none,HR,46
+06/08/2023,Bob,49891 USD,"$6,482 ",HR,74
+07/07/2023,Frank,47155 USD,,HR,76
+02/24/2023,Charlie,,,HR,44
+04/05/2023,Eve,,9778 USD,IT,31
+01/17/2023,Bob,,none,IT,79
+05/14/2023,Hank,,none,Finance,-20
+06/24/2023,Hank,N/A,9993 USD,IT,26
+01/13/2023,Diana,,none,IT,58
+02/03/2023,Alice,67240 USD,,IT,80
+06/05/2023,Alice,88422 USD,1878 USD,IT,54
+11/22/2023,Frank,"$63,250 ",none,Finance,79
+10/08/2023,Bob,"$90,433 ",,IT,56
+11/13/2023,Grace,"$51,695 ","$8,601 ",IT,45
+03/01/2023,Charlie,N/A,none,Marketing,62
+07/24/2023,Diana,,"$1,890 ",Finance,29
+06/13/2023,Ivy,,,Marketing,48
+03/13/2023,Hank,,"$4,560 ",Sales,73
+10/27/2023,Charlie,87210 USD,"$9,069 ",HR,55
+01/10/2023,Alice,"$83,142 ",,Finance,65
+06/29/2023,Eve,,,Marketing,27
+11/07/2023,Frank,N/A,4461 USD,Marketing,61
+01/18/2023,Frank,N/A,9186 USD,Marketing,54
+09/26/2023,Grace,,"$7,220 ",IT,-18
+05/20/2023,Hank,48766 USD,9497 USD,HR,34
+02/11/2023,Jack,,6304 USD,Sales,74
+08/21/2023,Jack,"$94,566 ","$6,387 ",IT,39
+10/24/2023,Ivy,98991 USD,none,HR,54
+06/16/2023,Hank,"$88,053 ",none,Sales,55
+01/21/2023,Ivy,56536 USD,,Marketing,98
+11/07/2023,Hank,,9885 USD,IT,50
+11/23/2023,Bob,"$76,095 ",,Finance,51
+03/18/2023,Alice,,"$5,685 ",HR,54
+10/11/2023,Diana,"$64,145 ",none,Finance,72
